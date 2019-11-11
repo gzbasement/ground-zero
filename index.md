@@ -1,7 +1,7 @@
 ---
 # Ground Zero
 
-**[Home](./index.html)** [Photos](./photos.html) **[People](./members.html)**
+**[Home](./index.html)** [Photos](./photos.md) **[People](./members.md)**
 
 ## About
 
