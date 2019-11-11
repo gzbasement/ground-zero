@@ -3,6 +3,10 @@ These are photos from our events from over the years!
 
 ## Slow Six and Lymbyc Systym
 
+<dl>
+<dt>Date</dt>
+<dd>April 17, 2010</dd>
+</dl>
 
 ## Adrian Aardvark
 
