@@ -1,13 +1,15 @@
 ---
-# Ground Zero Basement
+# Ground Zero
 
-[Photos](./photos.html).
+[Home](./index.html) [Photos](./photos.html). [People](./members.html) 
 
 ## About
 
 Ground Zero is a student-run music club at [RPI](https://www.rpi.edu). in Troy, NY. We run a music and arts space in EC4, where we hold bi-monthly open mics and other events throughout the school year.
 
 If you are interested in learning more, check out one of our events!
+
+You can find us on [YouTube](https://www.youtube.com/user/groundzerobasement) and [Facebook](https://www.facebook.com/groups/970264556341377/).
 
 ## Booking
 
@@ -99,7 +101,6 @@ We book for Fall (Sept.-Dec.) & Spring (Feb.-Apr.)
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
 ```
+#####
 
-```
-The final element.
-```
+> Ground Zero est. 
