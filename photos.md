@@ -1,5 +1,5 @@
 # Photos
-These are photos from our events from over the years!
+These are photos from our events over the years!
 
 ## Slow Six and Lymbyc Systym
 
@@ -14,6 +14,8 @@ These are photos from our events from over the years!
 
 ## Via Audio
 
+![Via](https://github.com/gzbasement/gzbasement/blob/master/Via%20Audio/IMG_1164.jpg)
+
 ## Slow Six
 
 ## Sgt. Dunbar and the Hobo Banned
@@ -21,6 +23,8 @@ These are photos from our events from over the years!
 ## Capillary Action & PWRFL Power
 
 ## Action Painters
+
+![Action Painters](./ActionPainters/DSC_0527.jpg)
 
 ## Troy Night Out April 2007
 
