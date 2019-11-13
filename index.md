@@ -15,7 +15,7 @@ You can find us on [Instagram](https://www.instagram.com/gzbasement/) [YouTube](
 
 If you are interested in performing at GZ, please contact our activities manager.
 
-E-mail: gzshows@gmail.com
+E-mail: gzbasementsocial@gmail.com
 
 We book for Fall (Sept.-Dec.) & Spring (Feb.-Apr.)
 
