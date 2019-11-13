@@ -1,40 +1,45 @@
-# Photos
+---
+# Ground Zero
+
+**[Home](./index.md)** [Photos](./photos.md) **[People](./members.md)**
+
+## Photos
 These are photos from our events over the years!
 
-## Slow Six and Lymbyc Systym
+### Slow Six and Lymbyc Systym
 
 <dl>
 <dt>Date</dt>
 <dd>April 17, 2010</dd>
 </dl>
 
-## Adrian Aardvark
+### Adrian Aardvark
 
-## Epic Fest
+### Epic Fest
 
-## Via Audio
+### Via Audio
 
 ![Via](https://github.com/gzbasement/gzbasement/blob/master/Via%20Audio/IMG_1164.jpg)
 
-## Slow Six
+### Slow Six
 
-## Sgt. Dunbar and the Hobo Banned
+### Sgt. Dunbar and the Hobo Banned
 
-## Capillary Action & PWRFL Power
+### Capillary Action & PWRFL Power
 
-## Action Painters
+### Action Painters
 
 ![Action Painters](./ActionPainters/DSC_0527.jpg)
 
-## Troy Night Out April 2007
+### Troy Night Out April 2007
 
-## The Felice Brothers
+### The Felice Brothers
 
-## The Dead Science
+### The Dead Science
 
-## Battles
+### Battles
 
-## Japanther and POTOTSOLATTTJ
+### Japanther and POTOTSOLATTTJ
 
 
 
