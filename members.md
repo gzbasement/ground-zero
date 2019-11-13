@@ -1,19 +1,24 @@
-# Officers
+---
+# Ground Zero
 
-## Co-Presidents
+**[Home](./index.md)** [Photos](./photos.md) **[People](./members.md)**
+
+## Officers
+
+### Co-Presidents
 
 Maya Navabi
 Simon Hopkins
 
-## Treasurer
+### Treasurer
 
-## Activities Chair
+### Activities Chair
 
-## PR Director
+### PR Director
 
-## Secretary
+### Secretary
 
-## Webmaster
+### Webmaster
 
 I forget the roles of: Jiashu Liu, Sophia Pod, Noah Ziegler
 
