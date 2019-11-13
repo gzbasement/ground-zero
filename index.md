@@ -11,7 +11,7 @@ The venue is handicap-accessible and a safe(r) space!
 
 If you are interested in learning more, check out one of our events!
 
-You can find us on [Instagram](https://www.instagram.com/gzbasement/) [YouTube](https://www.youtube.com/user/groundzerobasement) and [Facebook](https://www.facebook.com/groups/970264556341377/).
+You can find us on [Instagram](https://www.instagram.com/gzbasement/), [YouTube](https://www.youtube.com/user/groundzerobasement), [TikTok](https://www.tiktok.com/@gzbasementsocial) and [Facebook](https://www.facebook.com/groups/970264556341377/).
 
 ## Booking
 
