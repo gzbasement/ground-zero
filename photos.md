@@ -19,7 +19,7 @@ These are photos from our events over the years!
 
 ### Via Audio
 
-![Via](https://github.com/gzbasement/gzbasement/blob/master/Via%20Audio/IMG_1164.jpg)
+<img src="Via Audio/IMG_1164.jpg" alt="Via"/>
 
 ### Slow Six
 
