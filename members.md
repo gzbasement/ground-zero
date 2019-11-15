@@ -27,3 +27,5 @@ Ground Zero is comprised completely of students. If you've ever complained about
 
 
 Want to give your input and help out at events? Consider joining GZ. Come to an event and talk to a member! Or you can attend our weekly general meetings which take place on the third floor of the Student Union 3510/3511 every Sunday at 8pm.
+
+> Ground Zero est. 2001
