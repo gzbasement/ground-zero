@@ -1,7 +1,7 @@
 ---
 # Ground Zero
 
-**[Home](./index.md)** [Photos](./photos.md) **[People](./members.md)**
+**[home](./index.md)** [about](./about.md) **[events](./events.md)** [photos](./photos.md) **[people](./members.md)**
 
 ## Officers
 
