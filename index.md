@@ -1,7 +1,7 @@
 ---
 # Ground Zero
 
-**[Home](./index.md)** [Photos](./photos.md) **[People](./members.md)**
+**[home](./index.md)** [about](./about.md) **[events](./events.md)** [photos](./photos.md) **[people](./members.md)**
 
 ## About
 
@@ -22,4 +22,4 @@ E-mail: gzbasementsocial@gmail.com
 We book for Fall (Sept.-Dec.) & Spring (Feb.-Apr.)
 
 
-> Ground Zero est. 
+> Ground Zero est. 2001 
