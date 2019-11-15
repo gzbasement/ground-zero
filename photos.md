@@ -31,7 +31,7 @@ These are photos from our events over the years!
 
 ### Action Painters
 
-![Action Painters](./ActionPainters/DSC_0527.jpg)
+![Action Painters](./ActionPainters/DSC_0630.jpg)
 
 ### Troy Night Out April 2007
 
