@@ -1,7 +1,7 @@
 ---
 # Ground Zero
 
-**[Home](./index.md)** [Photos](./photos.md) **[People](./members.md)**
+**[home](./index.md)** [about](./about.md) **[events](./events.md)** [photos](./photos.md) **[people](./members.md)**
 
 ## Photos
 These are photos from our events over the years!
@@ -14,6 +14,11 @@ These are photos from our events over the years!
 </dl>
 
 ### Adrian Aardvark
+
+<dl>
+<dt>Date</dt>
+<dd>March 22, 2009</dd>
+</dl>
 
 <img src="Adrian Aardvark/IMG_3482.jpg" alt="Adrian"/>
 
@@ -31,7 +36,7 @@ These are photos from our events over the years!
 
 ### Action Painters
 
-![Action Painters](./ActionPainters/DSC_0630.jpg)
+![Action Painters](./ActionPainters/DSC_0607.jpg)
 
 ### Troy Night Out April 2007
 
