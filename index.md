@@ -19,7 +19,7 @@ If you are interested in performing at GZ, please contact our activities manager
 
 E-mail: gzbasementsocial@gmail.com
 
-We book for Fall (Sept.-Dec.) & Spring (Feb.-Apr.)
+We book for Fall (Sept.-Dec.) & Spring (Jan.-Apr.)
 
 
 > Ground Zero est. 2001 
