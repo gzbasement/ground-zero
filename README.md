@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## This is the website.
+
+Here's information if you forgot how GitHub Pages works:
 
 You can use the [editor on GitHub](https://github.com/gzbasement/gzbasement/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
